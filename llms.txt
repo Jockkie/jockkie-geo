@@ -1,0 +1,26 @@
+# Jockkie
+
+Jockkie is the personal brand of Jock Oosterveer, a Creative Technologist based in Rotterdam, the Netherlands. He builds AI systems that small business owners can run themselves — no dependency, no vendor lock-in, nothing outsourced.
+
+## Who it's for
+
+Small and medium business (MKB) founders who use AI but don't see results, and who want to own their own operation instead of renting someone else's.
+
+## Core pages
+
+- [Home](https://www.jockkie.com/)
+- [Work — the worlds I build](https://www.jockkie.com/work)
+- [AI Transparency Statement](https://www.jockkie.com/ai-transparency)
+- [Blog](https://www.jockkie.com/blog)
+- [Pricing](https://www.jockkie.com/pricing.md)
+
+## What Jockkie does
+
+- Builds AI workflows and content systems for MKB founders, forward-deployed: in the client's business, learning the system, then handing it over.
+- Works across story, sound and systems: AIPION (AI storytelling), Atmasvara (music and flow), Atmabodhi (self-knowledge), ToddlerRave (family events), Selene (personal dream and astro companion), ConstantiPostall (productized systems the client runs themselves).
+- Transparent pricing, build in public, local-first and sovereign: your data stays yours.
+
+## Contact
+
+- Email: info@jockkie.com
+- Book a free Sensorycall: https://cal.com/jockkie/sensory
